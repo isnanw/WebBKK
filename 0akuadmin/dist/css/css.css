@@ -1,0 +1,36 @@
+body{
+  margin: 30px;
+}
+h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 10px;
+}
+hr.kecil{
+  border : 1px solid black;
+}
+hr.besar{
+  border : 2px solid black;
+}
+table{
+  border: 1px solid #0288D1;
+  border-collapse: collapse;
+}
+table thead{
+  background: #0288D1;
+  color: aliceblue
+}
+table th,td{
+  padding: 5px;
+  border: 1px solid black;
+  text-align: left;
+}
+.text-center{
+  text-align: center;
+}
+.text-right{
+  text-align: right;
+}
+.judul{
+  font-weight: bold;
+  padding-top: 10px;
+}
